@@ -16,9 +16,6 @@ public class Shop {
 	}
 	public void setStaffName(String[] staffName) {
 		this.staffName = staffName;
-	}
- 
-	//getter and setter methods
- 
+	} 
 	
 }
